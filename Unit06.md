@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO407: Immunology"
+course_description: "An examination of the immune system, including innate and adaptive immunity, the cells involved in each of process of the immune system and their role in the immune response, and how antibodies are used to confer immunity for future potential exposures."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Adaptive Immunity** <span id="6"></span> 
 **Adaptive immunity is our last and most potent line of defense.  If it
 fails, we will inevitably succumb to infection.  Much of adaptive

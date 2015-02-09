@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO407: Immunology"
+course_description: "An examination of the immune system, including innate and adaptive immunity, the cells involved in each of process of the immune system and their role in the immune response, and how antibodies are used to confer immunity for future potential exposures."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to the Immune System** <span id="1"></span> 
 **In this first unit, we will cover the core concepts of immunology and
 identify the components of the innate (non-specific) and adaptive

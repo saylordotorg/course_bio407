@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO407: Immunology"
+course_description: "An examination of the immune system, including innate and adaptive immunity, the cells involved in each of process of the immune system and their role in the immune response, and how antibodies are used to confer immunity for future potential exposures."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Failures of the Immune System** <span id="7"></span> 
 **Even as the human immune system has evolved and developed complex
 defensive mechanisms against pathogens, pathogens themselves have

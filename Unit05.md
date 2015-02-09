@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO407: Immunology"
+course_description: "An examination of the immune system, including innate and adaptive immunity, the cells involved in each of process of the immune system and their role in the immune response, and how antibodies are used to confer immunity for future potential exposures."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Cell Signaling and Maturation** <span id="5"></span> 
 **The immune system (especially the adaptive immune system) relies upon
 many distinct pathways of communication all acting in synergy.  This
