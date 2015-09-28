@@ -60,3 +60,4 @@ computer.
 - [Unit 7](https://legacy.saylor.org/bio407/Unit07/)
 - [Unit 8](https://legacy.saylor.org/bio407/Unit08/)
 - [Unit 9](https://legacy.saylor.org/bio407/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO407/BIO407-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO407/BIO407-FinalExam-Answers.html)
