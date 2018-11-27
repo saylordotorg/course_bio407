@@ -215,12 +215,12 @@ Upon successful completion of this unit, students will be able to:
 **Unit 6 Assessment** <span id="6.7"></span> 
 -   **Reading: The Saylor Foundation's "BIO407 Unit 6 Quiz"**
     Link: The Saylor Foundation's "[BIO407 Unit 6
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO407-Unit-6-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-6-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 6 Quiz Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO407-Unit-6-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-6-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
       
      This assessment will take approximately 45 minutes to complete.
