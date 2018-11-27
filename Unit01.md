@@ -235,12 +235,12 @@ Recognition** <span id="1.3.3"></span> 
 **Unit 1 Assessment** <span id="1.4"></span> 
 -   **Assessment: The Saylor Foundation's "BIO407 Unit 1 Quiz"**
     Link: The Saylor Foundation's "[BIO407 Unit 1
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO407-Unit-1-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-1-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 1 Quiz Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/11/BIO407-Unit-1-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-1-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
       
      The assessment should take approximately 30 minutes to complete.
