@@ -254,12 +254,12 @@ id="2.5.2"></span> 
 **Unit 2 Assessment** <span id="2.7"></span> 
 -   **Assessment: The Saylor Foundation's "BIO407 Unit 2 Quiz"**
     Link: The Saylor Foundation's "[BIO407 Unit 2
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-2-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-2-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 2 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-2-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-2-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
       
      The assessment should take approximately 20 minutes to complete.
