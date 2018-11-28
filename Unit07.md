@@ -299,7 +299,7 @@ Upon successful completion of this unit, students will be able to:
         
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 7 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-7-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-7-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
         
      This assessment will take approximately 40 minutes to complete.

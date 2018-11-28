@@ -168,12 +168,12 @@ id="8.4.2"></span> 
 **Unit 8 Assessment** <span id="8.5"></span> 
 -   **Reading: The Saylor Foundation's "BIO407 Unit 8 Quiz"**
     Link: The Saylor Foundation's "[BIO407 Unit 8
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-8-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-8-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 8 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-8-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-8-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
       
      The assessment will take approximately 30 minutes to complete.   

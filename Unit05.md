@@ -356,12 +356,12 @@ id="5.7.4"></span> 
     Assessment: The Saylor Foundation's "BIO407 Unit 5 Quiz"  
       
      Link: The Saylor Foundation's "[BIO407 Unit 5
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-5-Quiz-FINAL.pdf)"
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-5-Quiz-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please take the quiz. When you have finished, check
     your work against the "[BIO407 Unit 5 Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/11/BIO407-Unit-5-Quiz-Answer-Key-FINAL.pdf)."
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/BIO407-Unit-5-Quiz-Answer-Key-FINAL.pdf)."
     (PDF)  
       
      This assessment will take you approximately 30 minutes to
